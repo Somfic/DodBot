@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "DodBot": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Key": "Value",
+        "token": "NTMwODY1MDMxODEwNzc3MDkx.DxFn7A.V6Lg7fgqf_IH4Qmr-nYbV002lXQ"
+      }
+    }
+  }
+}
